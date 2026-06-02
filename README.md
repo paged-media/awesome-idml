@@ -129,6 +129,7 @@ IDML is the de facto interchange format for translating InDesign documents, beca
 
 - [Redokun](https://redokun.com/) - A TMS specialized in InDesign/IDML translation, with in-context page previews, translation memory, and a companion InDesign plug-in that enriches IDML metadata.
 - [Trados Studio](https://www.trados.com/) - The industry-standard CAT tool (RWS) with strong IDML file-type support and in-app InDesign preview.
+- [Transl8ly](https://transl8ly.com/) - Browser-based IDML translation tool that previews a sample and returns translated IDML files while preserving document structure.
 - [memoQ](https://www.memoq.com/) - CAT/TMS with detailed IDML (and ICML) import settings, including control over master-page stories and special characters.
 - [Phrase](https://phrase.com/) - AI-powered localization platform supporting IDML in its translation workflows.
 - [Crowdin](https://store.crowdin.com/idml) - Localization platform with native IDML support and configurable segmentation.
