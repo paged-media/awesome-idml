@@ -25,6 +25,7 @@ This list focuses strictly on Adobe InDesign Markup Language. Note that "idML" /
 - [Localization & Translation](#localization--translation)
 - [Scripting & Automation](#scripting--automation)
 - [Related Formats](#related-formats)
+- [Books](#books)
 - [Articles & Tutorials](#articles--tutorials)
 - [Contributing](#contributing)
 
@@ -153,6 +154,12 @@ IDML has several siblings that share its XML model. Tooling for one is often reu
 - **IDMS** - InDesign Snippet; an IDML-based fragment representing a reusable set of page objects.
 - **INX** - InDesign Interchange (the legacy XML format that IDML replaced as of InDesign CS5).
 - **INDD** - The native binary InDesign document format. Not human-readable; typically converted to IDML for interchange.
+
+## Books
+
+- [XML and InDesign](https://www.oreilly.com/library/view/xml-and-indesign/9781449344153/) - Dorothy J. Hoskins' O'Reilly book on round-tripping structured content through InDesign, covering XML import, tagging, and IDML export for downstream publishing workflows (O'Reilly, 2013).
+- [XML Publishing with Adobe InDesign](https://www.oreilly.com/library/view/xml-publishing-with/9781449397234/) - Dorothy J. Hoskins' compact guide to XML workflows in InDesign, including a walkthrough of the IDML and ICML package formats (O'Reilly, 2010).
+- [InDesign automatisieren](https://dpunkt.de/produkt/indesign-automatisieren/) - Gregor Fellenz's reference on InDesign automation with GREP, JavaScript, and XML workflows, written by the author of the transpect idml2xml toolchain (dpunkt.verlag, 2015, German).
 
 ## Articles & Tutorials
 
