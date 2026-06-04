@@ -160,6 +160,9 @@ IDML has several siblings that share its XML model. Tooling for one is often reu
 - [How to translate InDesign files](https://redokun.com/blog/indesign-translation-plugin) - Practical walkthrough of the IDML-based localization workflow.
 - [Efficient translation of InDesign IDML files](https://medical-language-service.com/en/efficient-translation-of-indesign-idml-files-how-to-make-your-multilingual-brochure-a-success/) - Why IDML is the right interchange point for multilingual layout work.
 - [Parsing/extracting info from InDesign via API or SDK](https://community.adobe.com/t5/indesign-discussions/parsing-extracting-info-from-indesign-via-api-or-sdk/m-p/12361016) - Adobe community discussion on the realities (and limits) of reverse-engineering IDML without InDesign Server.
+- [Batch Change Hyperlinks Across a Whole InDesign Document](https://creativepro.com/batch-change-hyperlinks-across-a-whole-indesign-document/) - David Blatner's classic recipe for mass-editing hyperlinks (and making other sweeping changes) by exporting to IDML and using find-and-replace on the XML.
+- [Sleuthing With Snippets](https://creativepro.com/sleuthing-secrets-with-snippets/) - Mike Rankin uses InDesign's IDML-based Snippets feature as a detective tool to identify mysterious objects and characters in a document.
+- [Harnessing the Power of Text Variables and IDML](https://creativepro.com/harnessing-the-power-of-text-variables-and-idml/) - Jeff Potter's in-depth case study on automating newspaper production with text variables and IDML templates (CreativePro members-only).
 
 ## Contributing
 
