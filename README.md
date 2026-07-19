@@ -69,6 +69,7 @@ The formal IDML specification and Cookbook were last revised by Adobe for InDesi
 
 - [imgly/idml-importer](https://github.com/imgly/idml-importer) - Import IDML files into the IMG.LY Creative Editor SDK (CE.SDK), enabling browser-based editing of InDesign layouts.
 - [DeepIDML](https://github.com/Heng-xiu/DeepIDML) - A parser focused on extracting information from IDML, including converting InDesign styles to JSON and CSS.
+- [idmlkit](https://github.com/jimprivate/idmlkit) - AI-native toolkit and MCP server that parses, summarizes, and safely edits IDML files with byte-for-byte layout preservation, no InDesign required.
 
 ### Rust
 
