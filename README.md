@@ -89,6 +89,7 @@ The formal IDML specification and Cookbook were last revised by Adobe for InDesi
 
 - [outdesign](https://github.com/yanntrividic/outdesign) - IDML ↔ Pandoc bridge for converting between IDML and dozens of document formats.
 - [idml2html-python](https://github.com/roverbird/idml2html-python) - IDML → HTML extraction.
+- [idmly](https://www.idmly.com/) - HTML/CSS → IDML converter that turns web and AI-generated designs into fully editable InDesign files with real text frames, named paragraph styles, and vector graphics.
 - [markdown-idml-converter](https://github.com/BitAndBlack/markdown-idml-converter) - Markdown → IDML generation.
 - [g16WPIDML](https://github.com/ghifari160/g16WPIDML) - Generate a WordPress post from an InDesign document via IDML.
 - [transpect](https://github.com/transpect) - A complete open-source XML transformation framework with mature IDML import/export, widely used in scholarly and book publishing.
