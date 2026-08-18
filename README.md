@@ -33,7 +33,7 @@ This list focuses strictly on Adobe InDesign Markup Language. Note that "idML" /
 
 The formal IDML specification and Cookbook were last revised by Adobe for InDesign CS6 (DOM/IDML version 8.0, 2012) and were subsequently removed from Adobe's developer site. The format itself remains stable and forward-compatible, with the `DOMVersion` attribute incrementing per InDesign release.
 
-- [Adobe InDesign Markup Language (IDML) Cookbook](https://community.adobe.com/havfw69955/attachments/havfw69955/indesign/632677/1/IDML_cookbook_9627253.pdf) - The informal "how-to" guide for working with IDML, covering packages, snippets, schema generation, and common recipes (CS6 edition, hosted on the Adobe community forum).
+- [Adobe InDesign Markup Language (IDML) Cookbook](https://www.scribd.com/document/206031435/Idml-Cookbook) - The informal "how-to" guide for working with IDML, covering packages, snippets, schema generation, and common recipes (CS6 edition, hosted on the Adobe community forum).
 - [IDML File Format Specification (mirror)](https://community.adobe.com/t5/indesign-discussions/where-is-the-idml-specification/m-p/13172633) - Community thread tracking surviving mirrors of the formal CS5/CS6 specification PDFs after Adobe withdrew them.
 - [Adobe InDesign SDK](https://developer.adobe.com/console/) - The InDesign Plugin SDK ships IDML documentation and `docs/references/idml-schema.zip`, the place to generate RELAX NG schemas for your plug-in configuration.
 - [Automated publishing with XML, IDML & scripting](https://helpx.adobe.com/indesign/automation.html) - Adobe's official entry point for InDesign automation, including IDML and InDesign Server.
