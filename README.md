@@ -104,6 +104,8 @@ Because IDML is an open, documented format, a growing number of layout and desig
 - [QuarkXPress](https://www.quark.com/products/quarkxpress) - Long-standing professional DTP application that **imports** IDML, allowing InDesign layouts to be opened and edited in Quark.
 - [Scribus](https://www.scribus.net/) - The leading free, open-source DTP application (Windows, macOS, Linux, BSD, ChromeOS). **Imports** IDML (1.4.x onward, substantially improved in 1.6.0) and exports print-ready PDF — a popular no-cost way to view IDML, generate layout previews, and check translated files.
 - [Canva](https://www.canva.com/) - The web-based design platform can exchange with IDML via the [ConvertMarkz](https://markzware.com/convertmarkz/) app in the Canva marketplace, which exports Canva designs to IDML (and InDesign, Affinity, QuarkXPress) and back.
+- [Paged.media](https://paged.media/) - Paged-media publishing platform and tooling for creating print-ready publications without Adobe InDesign.
+- [ArtCraft Apps](https://getartcraft.com/apps) - Collection of publishing and design applications positioned as alternatives to Adobe InDesign.
 
 ## Conversion & Preview Tools
 
